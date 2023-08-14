@@ -5,17 +5,59 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="967b7a0e-c7a7-4e16-841b-dc45b4628bb1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/basic/Classloaderexample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/basic/Operators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/basic/Variablesinjava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/controlflow/Ifelse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/controlflow/Forloop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/controlflow/Whileloop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/controlflow/doWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/controlflow/nestedSwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/controlflow/switchStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/createObject/byCloneMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/createObject/byNewInstanceMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/createObject/byNewKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/objectsandclass/Initializeobjectthroughconstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/objectsandclass/Initializeobjectthroughmethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/objectsandclass/Initializeobjectthroughreferencevariable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ArrayListProgram/.metadata/.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ArrayListProgram/.metadata/.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ArrayListProgram/.metadata/.plugins/org.eclipse.core.resources/.projects/.org.eclipse.egit.core.cmp/.location" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ArrayListProgram/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ArrayListProgram/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ArrayListProgram/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ArrayListProgram/.metadata/.plugins/org.eclipse.core.resources/.root/1.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ArrayListProgram/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ArrayListProgram/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ArrayListProgram/.metadata/.plugins/org.eclipse.jdt.core/1865797976.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ArrayListProgram/.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ArrayListProgram/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ArrayListProgram/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ArrayListProgram/.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ArrayListProgram/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ArrayListProgram/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ArrayListProgram/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ArrayListProgram/.metadata/.plugins/org.eclipse.jdt.launching/.install.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ArrayListProgram/.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ArrayListProgram/.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ArrayListProgram/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ArrayListProgram/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ArrayListProgram/.metadata/.plugins/org.eclipse.m2e.core/workspaceState.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ArrayListProgram/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ArrayListProgram/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.2.0.0.20220705-1221.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ArrayListProgram/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ArrayListProgram/.metadata/.plugins/org.eclipse.tips.ide/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ArrayListProgram/.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ArrayListProgram/.metadata/.plugins/org.eclipse.ui.intro/introstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ArrayListProgram/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ArrayListProgram/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ArrayListProgram/.metadata/version.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ArrayListProgram/bin/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ArrayListProgram/src/com/player/ArraylistAddition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ArrayListProgram/ArraylistAddition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ArrayListProgram/src/com/player/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/ArrayListProgram/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/HashmapProgram/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/HashmapProgram/src/com/Book/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/HashmapProgram/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/HashmapProgram/src/com/Book/Bookhashmap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/HashmapProgram/Bookhashmap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/LinkedList/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/LinkedList/src/com/linkedlist/program/Middlevalue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/LinkedList/Middlevalue.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,16 +87,24 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/Practice/Collections/Javastarttoend/src/main/java/org/ArrayListProgram",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Ifelse">
-    <configuration name="Classloaderexample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.basic.Classloaderexample" />
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Practice\Collections\Javastarttoend\src\main\java\org\ArrayListProgram" />
+      <recent name="D:\Practice\Collections\Javastarttoend\src\main\java\org" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.byCloneMethod">
+    <configuration name="Initializeobjectthroughconstructor (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.objectsandclass.Initializeobjectthroughconstructor" />
       <module name="Javastarttoend" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.basic.*" />
+          <option name="PATTERN" value="org.objectsandclass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ifelse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.controlflow.Ifelse" />
+    <configuration name="Initializeobjectthroughconstructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.objectsandclass.Initializeobjectthroughconstructor" />
       <module name="Javastarttoend" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.controlflow.*" />
+          <option name="PATTERN" value="org.objectsandclass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.basic.Operators" />
+    <configuration name="byCloneMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.createObject.byCloneMethod" />
       <module name="Javastarttoend" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.basic.*" />
+          <option name="PATTERN" value="org.createObject.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +138,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Variablesinjava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.basic.Variablesinjava" />
+    <configuration name="byNewInstanceMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.createObject.byNewInstanceMethod" />
       <module name="Javastarttoend" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.basic.*" />
+          <option name="PATTERN" value="org.createObject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="byNewKeyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.createObject.byNewKeyword" />
+      <module name="Javastarttoend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.createObject.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,10 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ifelse" />
-        <item itemvalue="Application.Operators" />
-        <item itemvalue="Application.Variablesinjava" />
-        <item itemvalue="Application.Classloaderexample" />
+        <item itemvalue="Application.byCloneMethod" />
+        <item itemvalue="Application.byNewInstanceMethod" />
+        <item itemvalue="Application.byNewKeyword" />
+        <item itemvalue="Application.Initializeobjectthroughconstructor (1)" />
+        <item itemvalue="Application.Initializeobjectthroughconstructor" />
       </list>
     </recent_temporary>
   </component>
