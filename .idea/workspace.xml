@@ -5,20 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="967b7a0e-c7a7-4e16-841b-dc45b4628bb1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/createObject/byDeserializationMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/createObject/byFactoryMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/inheritance/Hierarchicalinhertiance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/inheritance/Multilevelinheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/inheritance/Multipleinheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/inheritance/Singleinheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/keywords/Staticmethodexample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/keywords/Staticvariableexample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/keywords/thisAsACurrentClassInstanceVariable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/keywords/thisKeywordToInvokeCurrentClassMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/keywords/thisToInvokeCurrentClassConstructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/keywords/thisToPassAnArgumentInTheConstructorCall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/keywords/thisToPassAnArgumentInTheMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/keywords/thisToReturnCurrentClassInstance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aggregation/AggregationExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aggregation/Aggregationexample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/overloadingandoverriding/Overridingexample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,28 +35,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/Practice/Collections/Javastarttoend/src/main/java/org/ArrayListProgram",
-    "settings.editor.selected.configurable": "preferences.keymap"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Practice/Collections/Javastarttoend/src/main/java/org/ArrayListProgram&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.smartKeys&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Practice\Collections\Javastarttoend\src\main\java\org\ArrayListProgram" />
       <recent name="D:\Practice\Collections\Javastarttoend\src\main\java\org" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Hybridinheritance">
-    <configuration name="Hierarchicalinhertiance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.inheritance.Hierarchicalinhertiance" />
+  <component name="RunManager" selected="Application.Overridingexample">
+    <configuration name="AggregationExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.aggregation.AggregationExample2" />
       <module name="Javastarttoend" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.inheritance.*" />
+          <option name="PATTERN" value="org.aggregation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Aggregationexample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.aggregation.Aggregationexample" />
+      <module name="Javastarttoend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.aggregation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,25 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Singleinheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.inheritance.Singleinheritance" />
+    <configuration name="Overridingexample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.overloadingandoverriding.Overridingexample" />
       <module name="Javastarttoend" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.inheritance.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="thisToReturnCurrentClassInstance (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.keywords.thisToReturnCurrentClassInstance" />
-      <module name="Javastarttoend" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.keywords.*" />
+          <option name="PATTERN" value="org.overloadingandoverriding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Overridingexample" />
+        <item itemvalue="Application.AggregationExample2" />
+        <item itemvalue="Application.Aggregationexample" />
         <item itemvalue="Application.Hybridinheritance" />
         <item itemvalue="Application.Multipleinheritance" />
-        <item itemvalue="Application.Hierarchicalinhertiance" />
-        <item itemvalue="Application.Singleinheritance" />
-        <item itemvalue="Application.thisToReturnCurrentClassInstance (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -170,6 +159,21 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/aggregation/Aggregationexample.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/aggregation/Aggregationexample.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/aggregation/Aggregationexample.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
