@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="967b7a0e-c7a7-4e16-841b-dc45b4628bb1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/aggregation/AggregationExample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/aggregation/Aggregationexample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/overloadingandoverriding/Overridingexample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/polymorphism/Covariantreturntype.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/polymorphism/Covariantreturntype2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/polymorphism/Instanceinitilizerblockexamle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/polymorphism/Instantinitializerblockthatisinvokedaftersuperclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/polymorphism/Superkeywordforimmediateparentclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/polymorphism/Superkeywordisusedtoinvokeparentclassconstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/polymorphism/Superkeywordisusedtoinvokeparentclassmethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/polymorphism/Whichwillinvokefirstblockorconstructor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,13 +55,13 @@
       <recent name="D:\Practice\Collections\Javastarttoend\src\main\java\org" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Overridingexample">
-    <configuration name="AggregationExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.aggregation.AggregationExample2" />
+  <component name="RunManager" selected="Application.Whichwillinvokefirstblockorconstructor">
+    <configuration name="Instanceinitilizerblockexamle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.polymorphism.Instanceinitilizerblockexamle" />
       <module name="Javastarttoend" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.aggregation.*" />
+          <option name="PATTERN" value="org.polymorphism.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Aggregationexample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.aggregation.Aggregationexample" />
+    <configuration name="Superkeywordforimmediateparentclass (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.polymorphism.Superkeywordforimmediateparentclass" />
       <module name="Javastarttoend" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.aggregation.*" />
+          <option name="PATTERN" value="org.polymorphism.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hybridinheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.inheritance.Hybridinheritance" />
+    <configuration name="Superkeywordisusedtoinvokeparentclassconstructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.polymorphism.Superkeywordisusedtoinvokeparentclassconstructor" />
       <module name="Javastarttoend" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.inheritance.*" />
+          <option name="PATTERN" value="org.polymorphism.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Multipleinheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.inheritance.Multipleinheritance" />
+    <configuration name="Superkeywordisusedtoinvokeparentclassmethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.polymorphism.Superkeywordisusedtoinvokeparentclassmethod" />
       <module name="Javastarttoend" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.inheritance.*" />
+          <option name="PATTERN" value="org.polymorphism.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Overridingexample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.overloadingandoverriding.Overridingexample" />
+    <configuration name="Whichwillinvokefirstblockorconstructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.polymorphism.Whichwillinvokefirstblockorconstructor" />
       <module name="Javastarttoend" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.overloadingandoverriding.*" />
+          <option name="PATTERN" value="org.polymorphism.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Overridingexample" />
-        <item itemvalue="Application.AggregationExample2" />
-        <item itemvalue="Application.Aggregationexample" />
-        <item itemvalue="Application.Hybridinheritance" />
-        <item itemvalue="Application.Multipleinheritance" />
+        <item itemvalue="Application.Whichwillinvokefirstblockorconstructor" />
+        <item itemvalue="Application.Instanceinitilizerblockexamle" />
+        <item itemvalue="Application.Superkeywordisusedtoinvokeparentclassconstructor" />
+        <item itemvalue="Application.Superkeywordisusedtoinvokeparentclassmethod" />
+        <item itemvalue="Application.Superkeywordforimmediateparentclass (1)" />
       </list>
     </recent_temporary>
   </component>
