@@ -5,15 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="967b7a0e-c7a7-4e16-841b-dc45b4628bb1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/polymorphism/Covariantreturntype.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/polymorphism/Covariantreturntype2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/polymorphism/Instanceinitilizerblockexamle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/polymorphism/Instantinitializerblockthatisinvokedaftersuperclass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/polymorphism/Superkeywordforimmediateparentclass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/polymorphism/Superkeywordisusedtoinvokeparentclassconstructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/polymorphism/Superkeywordisusedtoinvokeparentclassmethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/polymorphism/Whichwillinvokefirstblockorconstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/polymorphism/Initializeblankfinalvariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/polymorphism/Javafinalclassexample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/polymorphism/Javafinalmethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/polymorphism/Javafinalvariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/polymorphism/Runtimepolymorphism.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/polymorphism/Runtimepolymorphismwithmultilevelinheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/polymorphism/Staticbindingclass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/polymorphism/Instantinitializerblockthatisinvokedaftersuperclass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/polymorphism/Instantinitializerblockthatisinvokedaftersuperclass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,9 +55,9 @@
       <recent name="D:\Practice\Collections\Javastarttoend\src\main\java\org" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Whichwillinvokefirstblockorconstructor">
-    <configuration name="Instanceinitilizerblockexamle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.polymorphism.Instanceinitilizerblockexamle" />
+  <component name="RunManager" selected="Application.Staticbindingclass">
+    <configuration name="Initializeblankfinalvariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.polymorphism.Initializeblankfinalvariable" />
       <module name="Javastarttoend" />
       <extension name="coverage">
         <pattern>
@@ -69,8 +69,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Superkeywordforimmediateparentclass (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.polymorphism.Superkeywordforimmediateparentclass" />
+    <configuration name="Instantinitializerblockthatisinvokedaftersuperclass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.polymorphism.Instantinitializerblockthatisinvokedaftersuperclass" />
       <module name="Javastarttoend" />
       <extension name="coverage">
         <pattern>
@@ -82,8 +82,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Superkeywordisusedtoinvokeparentclassconstructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.polymorphism.Superkeywordisusedtoinvokeparentclassconstructor" />
+    <configuration name="Runtimepolymorphism" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.polymorphism.Runtimepolymorphism" />
       <module name="Javastarttoend" />
       <extension name="coverage">
         <pattern>
@@ -95,8 +95,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Superkeywordisusedtoinvokeparentclassmethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.polymorphism.Superkeywordisusedtoinvokeparentclassmethod" />
+    <configuration name="Runtimepolymorphismwithmultilevelinheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.polymorphism.Runtimepolymorphismwithmultilevelinheritance" />
       <module name="Javastarttoend" />
       <extension name="coverage">
         <pattern>
@@ -108,8 +108,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Whichwillinvokefirstblockorconstructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.polymorphism.Whichwillinvokefirstblockorconstructor" />
+    <configuration name="Staticbindingclass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.polymorphism.Staticbindingclass" />
       <module name="Javastarttoend" />
       <extension name="coverage">
         <pattern>
@@ -123,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Whichwillinvokefirstblockorconstructor" />
-        <item itemvalue="Application.Instanceinitilizerblockexamle" />
-        <item itemvalue="Application.Superkeywordisusedtoinvokeparentclassconstructor" />
-        <item itemvalue="Application.Superkeywordisusedtoinvokeparentclassmethod" />
-        <item itemvalue="Application.Superkeywordforimmediateparentclass (1)" />
+        <item itemvalue="Application.Staticbindingclass" />
+        <item itemvalue="Application.Runtimepolymorphismwithmultilevelinheritance" />
+        <item itemvalue="Application.Runtimepolymorphism" />
+        <item itemvalue="Application.Initializeblankfinalvariable" />
+        <item itemvalue="Application.Instantinitializerblockthatisinvokedaftersuperclass" />
       </list>
     </recent_temporary>
   </component>
