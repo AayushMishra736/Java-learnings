@@ -5,15 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="967b7a0e-c7a7-4e16-841b-dc45b4628bb1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/polymorphism/Initializeblankfinalvariable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/polymorphism/Javafinalclassexample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/polymorphism/Javafinalmethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/polymorphism/Javafinalvariable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/polymorphism/Runtimepolymorphism.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/polymorphism/Runtimepolymorphismwithmultilevelinheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/polymorphism/Staticbindingclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/polymorphism/Downcastingexample/Downcastingexampleclassfailure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/polymorphism/Downcastingexample/DowncastingexamplewithInstanceOf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/polymorphism/Instanceofoperatorexample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/polymorphism/Instantinitializerblockthatisinvokedaftersuperclass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/polymorphism/Instantinitializerblockthatisinvokedaftersuperclass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,13 +50,13 @@
       <recent name="D:\Practice\Collections\Javastarttoend\src\main\java\org" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Staticbindingclass">
-    <configuration name="Initializeblankfinalvariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.polymorphism.Initializeblankfinalvariable" />
+  <component name="RunManager" selected="Application.DowncastingexamplewithInstanceOf">
+    <configuration name="Downcastingexampleclass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.polymorphism.Downcastingexample.Downcastingexampleclass" />
       <module name="Javastarttoend" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.polymorphism.*" />
+          <option name="PATTERN" value="org.polymorphism.Downcastingexample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +64,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Instantinitializerblockthatisinvokedaftersuperclass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.polymorphism.Instantinitializerblockthatisinvokedaftersuperclass" />
+    <configuration name="DowncastingexamplewithInstanceOf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.polymorphism.Downcastingexample.DowncastingexamplewithInstanceOf" />
       <module name="Javastarttoend" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.polymorphism.*" />
+          <option name="PATTERN" value="org.polymorphism.Downcastingexample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,8 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Runtimepolymorphism" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.polymorphism.Runtimepolymorphism" />
+    <configuration name="Instanceofoperatorexample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.polymorphism.Instanceofoperatorexample" />
       <module name="Javastarttoend" />
       <extension name="coverage">
         <pattern>
@@ -123,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DowncastingexamplewithInstanceOf" />
+        <item itemvalue="Application.Downcastingexampleclass" />
+        <item itemvalue="Application.Instanceofoperatorexample" />
         <item itemvalue="Application.Staticbindingclass" />
         <item itemvalue="Application.Runtimepolymorphismwithmultilevelinheritance" />
-        <item itemvalue="Application.Runtimepolymorphism" />
-        <item itemvalue="Application.Initializeblankfinalvariable" />
-        <item itemvalue="Application.Instantinitializerblockthatisinvokedaftersuperclass" />
       </list>
     </recent_temporary>
   </component>
