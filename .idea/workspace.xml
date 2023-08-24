@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="967b7a0e-c7a7-4e16-841b-dc45b4628bb1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/abstraction/abstractionExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/polymorphism/Downcastingexample/Downcastingwithoutuseofinstanceof.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/polymorphism/Downcastingexample/Realuseofdowncastng.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/abstraction/Abstractclassexample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/abstraction/Abstractclassexample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +48,20 @@
       <recent name="D:\Practice\Collections\Javastarttoend\src\main\java\org" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.abstractionExample">
+  <component name="RunManager" selected="Application.Abstractclassexample">
+    <configuration name="Abstractclassexample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.abstraction.Abstractclassexample" />
+      <module name="Javastarttoend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.abstraction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Downcastingexampleclass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.polymorphism.Downcastingexample.Downcastingexampleclass" />
       <module name="Javastarttoend" />
@@ -90,19 +101,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Instanceofoperatorexample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.polymorphism.Instanceofoperatorexample" />
-      <module name="Javastarttoend" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.polymorphism.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="abstractionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.abstraction.abstractionExample" />
       <module name="Javastarttoend" />
@@ -118,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Abstractclassexample" />
         <item itemvalue="Application.abstractionExample" />
         <item itemvalue="Application.Downcastingwithoutuseofinstanceof" />
         <item itemvalue="Application.DowncastingexamplewithInstanceOf" />
         <item itemvalue="Application.Downcastingexampleclass" />
-        <item itemvalue="Application.Instanceofoperatorexample" />
       </list>
     </recent_temporary>
   </component>
