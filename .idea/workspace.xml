@@ -5,17 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="967b7a0e-c7a7-4e16-841b-dc45b4628bb1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/multithreading/Daemonthreadexample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/multithreading/Namingathread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/multithreading/Threadexampleforjoinmethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/multithreading/Threadpoolexample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/multithreading/Threadpriority.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/multithreading/Threadsleep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/multithreading/threadcreation/Byconstructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/multithreading/threadcreation/Byrunnableandthreadclass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/multithreading/threadcreation/Byrunnableinterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/multithreading/threadcreation/Bythreadclass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ArrayListProgram/ArraylistAddition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/arrayListProgram/ArraylistAddition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/ArrayListProgram/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/arrayListProgram/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/HashmapProgram/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/hashmapProgram/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/HashmapProgram/Bookhashmap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/hashmapProgram/Bookhashmap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/multithreading/threadgroup/Firstexamplethreadgroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/multithreading/threadgroup/Firstexamplethreadgroup.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,13 +55,26 @@
       <recent name="D:\Practice\Collections\Javastarttoend\src\main\java\org" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Threadpoolexample">
+  <component name="RunManager" selected="Application.Firstexamplethreadgroup">
     <configuration name="Daemonthreadexample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.multithreading.Daemonthreadexample" />
       <module name="Javastarttoend" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.multithreading.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Firstexamplethreadgroup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.multithreading.threadgroup.Firstexamplethreadgroup" />
+      <module name="Javastarttoend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.multithreading.threadgroup.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,26 +121,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Threadpriority" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.multithreading.Threadpriority" />
-      <module name="Javastarttoend" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.multithreading.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Firstexamplethreadgroup" />
         <item itemvalue="Application.Threadpoolexample" />
         <item itemvalue="Application.Threadpoolexample (2)" />
         <item itemvalue="Application.Threadpoolexample (1)" />
         <item itemvalue="Application.Daemonthreadexample" />
-        <item itemvalue="Application.Threadpriority" />
       </list>
     </recent_temporary>
   </component>

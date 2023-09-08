@@ -1,4 +1,4 @@
-package org.HashmapProgram;
+package org.hashmapProgram;
 
 public class Book {
 	int bookId;

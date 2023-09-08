@@ -1,4 +1,4 @@
-package org.ArrayListProgram;
+package org.arrayListProgram;
 
 public class Player {
 	private String playerName;
