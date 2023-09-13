@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="967b7a0e-c7a7-4e16-841b-dc45b4628bb1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/multithreading/synchronization/Synchronizedmethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/multithreading/synchronization/Understandingproblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/multithreading/synchronization/Staticsynchronization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/multithreading/synchronization/Synchronizedblock.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +52,7 @@
       <recent name="D:\Practice\Collections\Javastarttoend\src\main\java\org" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Synchronizedmethod">
+  <component name="RunManager" selected="Application.Synchronizedblock">
     <configuration name="Garbagecollection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.multithreading.Garbagecollection" />
       <module name="Javastarttoend" />
@@ -79,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Shutdownhookexample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.multithreading.Shutdownhookexample" />
+    <configuration name="Synchronizedblock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.multithreading.synchronization.Synchronizedblock" />
       <module name="Javastarttoend" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.multithreading.*" />
+          <option name="PATTERN" value="org.multithreading.synchronization.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Synchronizedblock" />
         <item itemvalue="Application.Synchronizedmethod" />
         <item itemvalue="Application.Understandingproblem" />
         <item itemvalue="Application.Runtimeclasses" />
         <item itemvalue="Application.Garbagecollection" />
-        <item itemvalue="Application.Shutdownhookexample" />
       </list>
     </recent_temporary>
   </component>
