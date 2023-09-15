@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="967b7a0e-c7a7-4e16-841b-dc45b4628bb1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/multithreading/synchronization/Staticsynchronization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/multithreading/synchronization/Synchronizedblock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/datastructure/basicprograms/Factorialofgivennumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/datastructure/basicprograms/Oddevenprogram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/datastructure/basicprograms/Swaptownumberusingthirdvariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/datastructure/basicprograms/Swaptwonumberwithoutthirdvaraible.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/datastructure/basicprograms/compareTwoString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/multithreading/deadlock/TestDeadlockExample1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,13 +56,13 @@
       <recent name="D:\Practice\Collections\Javastarttoend\src\main\java\org" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Synchronizedblock">
-    <configuration name="Garbagecollection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.multithreading.Garbagecollection" />
+  <component name="RunManager" selected="Application.compareTwoString">
+    <configuration name="Factorialofgivennumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructure.basicprograms.Factorialofgivennumber" />
       <module name="Javastarttoend" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.multithreading.*" />
+          <option name="PATTERN" value="datastructure.basicprograms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Runtimeclasses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.multithreading.Runtimeclasses" />
+    <configuration name="Oddevenprogram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructure.basicprograms.Oddevenprogram" />
       <module name="Javastarttoend" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.multithreading.*" />
+          <option name="PATTERN" value="datastructure.basicprograms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Synchronizedblock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.multithreading.synchronization.Synchronizedblock" />
+    <configuration name="Swaptownumberusingthirdvariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructure.basicprograms.Swaptownumberusingthirdvariable" />
       <module name="Javastarttoend" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.multithreading.synchronization.*" />
+          <option name="PATTERN" value="datastructure.basicprograms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Synchronizedmethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.multithreading.synchronization.Synchronizedmethod" />
+    <configuration name="Swaptwonumberwithoutthirdvaraible" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructure.basicprograms.Swaptwonumberwithoutthirdvaraible" />
       <module name="Javastarttoend" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.multithreading.synchronization.*" />
+          <option name="PATTERN" value="datastructure.basicprograms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Understandingproblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.multithreading.synchronization.Understandingproblem" />
+    <configuration name="compareTwoString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructure.basicprograms.compareTwoString" />
       <module name="Javastarttoend" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.multithreading.synchronization.*" />
+          <option name="PATTERN" value="datastructure.basicprograms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Synchronizedblock" />
-        <item itemvalue="Application.Synchronizedmethod" />
-        <item itemvalue="Application.Understandingproblem" />
-        <item itemvalue="Application.Runtimeclasses" />
-        <item itemvalue="Application.Garbagecollection" />
+        <item itemvalue="Application.compareTwoString" />
+        <item itemvalue="Application.Factorialofgivennumber" />
+        <item itemvalue="Application.Oddevenprogram" />
+        <item itemvalue="Application.Swaptwonumberwithoutthirdvaraible" />
+        <item itemvalue="Application.Swaptownumberusingthirdvariable" />
       </list>
     </recent_temporary>
   </component>
