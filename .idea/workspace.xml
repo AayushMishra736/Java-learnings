@@ -5,13 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="967b7a0e-c7a7-4e16-841b-dc45b4628bb1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/datastructure/basicprograms/Factorialofgivennumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/datastructure/basicprograms/Oddevenprogram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/datastructure/basicprograms/Swaptownumberusingthirdvariable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/datastructure/basicprograms/Swaptwonumberwithoutthirdvaraible.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/datastructure/basicprograms/compareTwoString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/multithreading/deadlock/TestDeadlockExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/multithreading/deadlock/Interruptingathread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/multithreading/deadlock/Interruptingwithoutanycause.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/multithreading/deadlock/Testdeadlockexample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/string/Immutableclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/string/Stringbufferexample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/string/Stringcompare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/string/Stringmethod1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/string/stringmethods/Charatmethod.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/multithreading/deadlock/TestDeadlockExample1.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +25,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="AnnotationType" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -56,13 +60,13 @@
       <recent name="D:\Practice\Collections\Javastarttoend\src\main\java\org" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.compareTwoString">
-    <configuration name="Factorialofgivennumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datastructure.basicprograms.Factorialofgivennumber" />
+  <component name="RunManager" selected="Application.Charatmethod">
+    <configuration name="Charatmethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.string.stringmethods.Charatmethod" />
       <module name="Javastarttoend" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="datastructure.basicprograms.*" />
+          <option name="PATTERN" value="org.string.stringmethods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Oddevenprogram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datastructure.basicprograms.Oddevenprogram" />
+    <configuration name="Immutableclass (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.string.Immutableclass" />
       <module name="Javastarttoend" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="datastructure.basicprograms.*" />
+          <option name="PATTERN" value="org.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Swaptownumberusingthirdvariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datastructure.basicprograms.Swaptownumberusingthirdvariable" />
+    <configuration name="Immutableclass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.string.Immutableclass" />
       <module name="Javastarttoend" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="datastructure.basicprograms.*" />
+          <option name="PATTERN" value="org.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Swaptwonumberwithoutthirdvaraible" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datastructure.basicprograms.Swaptwonumberwithoutthirdvaraible" />
+    <configuration name="Stringbufferexample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.string.Stringbufferexample" />
       <module name="Javastarttoend" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="datastructure.basicprograms.*" />
+          <option name="PATTERN" value="org.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="compareTwoString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datastructure.basicprograms.compareTwoString" />
+    <configuration name="Stringmethod1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.string.Stringmethod1" />
       <module name="Javastarttoend" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="datastructure.basicprograms.*" />
+          <option name="PATTERN" value="org.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.compareTwoString" />
-        <item itemvalue="Application.Factorialofgivennumber" />
-        <item itemvalue="Application.Oddevenprogram" />
-        <item itemvalue="Application.Swaptwonumberwithoutthirdvaraible" />
-        <item itemvalue="Application.Swaptownumberusingthirdvariable" />
+        <item itemvalue="Application.Charatmethod" />
+        <item itemvalue="Application.Immutableclass" />
+        <item itemvalue="Application.Immutableclass (1)" />
+        <item itemvalue="Application.Stringbufferexample" />
+        <item itemvalue="Application.Stringmethod1" />
       </list>
     </recent_temporary>
   </component>
@@ -195,6 +199,16 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/multithreading/Garbagecollection.java</url>
           <line>9</line>
           <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/string/Stringcompare.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/string/stringmethods/Charatmethod.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
