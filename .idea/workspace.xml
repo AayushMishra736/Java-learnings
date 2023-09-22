@@ -5,16 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="967b7a0e-c7a7-4e16-841b-dc45b4628bb1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/multithreading/deadlock/Interruptingathread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/multithreading/deadlock/Interruptingwithoutanycause.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/multithreading/deadlock/Testdeadlockexample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/string/Immutableclass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/string/Stringbufferexample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/string/Stringcompare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/string/Stringmethod1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/string/stringmethods/Charatmethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/exception/Execptionexample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/exception/Execptionexample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/exception/Throwexception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/exception/nestedTry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/exception/throwexception/Execptionexample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/exception/throwexception/Throwingcheckedexception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/exception/throwexception/student.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/string/Stringregexexmpale.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/string/stringmethods/Regexexample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/multithreading/deadlock/TestDeadlockExample1.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +28,7 @@
         <option value="AnnotationType" />
         <option value="Enum" />
         <option value="Class" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -42,31 +44,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Practice/Collections/Javastarttoend/src/main/java/org/ArrayListProgram&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.smartKeys&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/Practice/Collections/Javastarttoend/src/main/java/org/exception/throw",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "editor.preferences.smartKeys"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Practice\Collections\Javastarttoend\src\main\java\org\exception\throw" />
       <recent name="D:\Practice\Collections\Javastarttoend\src\main\java\org\ArrayListProgram" />
       <recent name="D:\Practice\Collections\Javastarttoend\src\main\java\org" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Charatmethod">
-    <configuration name="Charatmethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.string.stringmethods.Charatmethod" />
+  <component name="RunManager" selected="Application.Throwingcheckedexception">
+    <configuration name="Execptionexample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.exception.Execptionexample1" />
       <module name="Javastarttoend" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.string.stringmethods.*" />
+          <option name="PATTERN" value="org.exception.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Immutableclass (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.string.Immutableclass" />
+    <configuration name="Execptionexample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.exception.Execptionexample2" />
       <module name="Javastarttoend" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.string.*" />
+          <option name="PATTERN" value="org.exception.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Immutableclass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.string.Immutableclass" />
+    <configuration name="Throwexception" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.exception.Throwexception" />
       <module name="Javastarttoend" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.string.*" />
+          <option name="PATTERN" value="org.exception.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Stringbufferexample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.string.Stringbufferexample" />
+    <configuration name="Throwingcheckedexception" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.exception.throwexception.Throwingcheckedexception" />
       <module name="Javastarttoend" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.string.*" />
+          <option name="PATTERN" value="org.exception.throwexception.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Stringmethod1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.string.Stringmethod1" />
+    <configuration name="nestedTry" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.exception.nestedTry" />
       <module name="Javastarttoend" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.string.*" />
+          <option name="PATTERN" value="org.exception.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Charatmethod" />
-        <item itemvalue="Application.Immutableclass" />
-        <item itemvalue="Application.Immutableclass (1)" />
-        <item itemvalue="Application.Stringbufferexample" />
-        <item itemvalue="Application.Stringmethod1" />
+        <item itemvalue="Application.Throwingcheckedexception" />
+        <item itemvalue="Application.Throwexception" />
+        <item itemvalue="Application.nestedTry" />
+        <item itemvalue="Application.Execptionexample2" />
+        <item itemvalue="Application.Execptionexample1" />
       </list>
     </recent_temporary>
   </component>
@@ -209,6 +212,31 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/string/stringmethods/Charatmethod.java</url>
           <line>17</line>
           <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/exception/Throwexception.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/exception/throwexception/Throwingcheckedexception.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/exception/throwexception/Throwingcheckedexception.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/exception/throwexception/Throwingcheckedexception.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/exception/throwexception/Throwingcheckedexception.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
