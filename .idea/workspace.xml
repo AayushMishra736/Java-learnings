@@ -5,17 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="967b7a0e-c7a7-4e16-841b-dc45b4628bb1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/exception/Execptionexample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/exception/Execptionexample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/exception/Throwexception.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/exception/nestedTry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/exception/throwexception/Execptionexample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/exception/throwexception/Throwingcheckedexception.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/exception/throwexception/student.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/string/Stringregexexmpale.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/string/stringmethods/Regexexample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/exception/execptionHnadlingWthMethodOverriding/SuperClassdeclaresanexceptionandSubClassdeclaresachildexceptionoftheSuperClassdeclaredException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/exception/execptionHnadlingWthMethodOverriding/SuperClassdeclaresanexceptionandSubClassdeclaresexceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/exception/execptionHnadlingWthMethodOverriding/SuperClassdeclaresanexceptionandSubClassdeclareswithoutexception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/exception/execptionHnadlingWthMethodOverriding/Superclassdoesnotdeclareanexecptionsubclassdeclaredanuncheckedexecption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/exception/execptionHnadlingWthMethodOverriding/Superclassdoesnotdeclareanexecptionsubclassdeclaredcheckedexecption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/exception/throwexception/Execptionpropagation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/exception/throwexception/Throwuncheckedexception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/exception/throwexception/Userdefinedexecption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/exception/userdefinedexception/Example1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/exception/throwexception/Execptionexample2.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,8 +27,8 @@
       <list>
         <option value="AnnotationType" />
         <option value="Enum" />
-        <option value="Class" />
         <option value="Kotlin Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -63,13 +63,13 @@
       <recent name="D:\Practice\Collections\Javastarttoend\src\main\java\org" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Throwingcheckedexception">
-    <configuration name="Execptionexample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.exception.Execptionexample1" />
+  <component name="RunManager" selected="Application.SuperClassdeclaresanexceptionandSubClassdeclareswithoutexception">
+    <configuration name="SuperClassdeclaresanexceptionandSubClassdeclaresachildexceptionoftheSuperClassdeclaredException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.exception.execptionHnadlingWthMethodOverriding.SuperClassdeclaresanexceptionandSubClassdeclaresachildexceptionoftheSuperClassdeclaredException" />
       <module name="Javastarttoend" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.exception.*" />
+          <option name="PATTERN" value="org.exception.execptionHnadlingWthMethodOverriding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Execptionexample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.exception.Execptionexample2" />
+    <configuration name="SuperClassdeclaresanexceptionandSubClassdeclaresexceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.exception.execptionHnadlingWthMethodOverriding.SuperClassdeclaresanexceptionandSubClassdeclaresexceptions" />
       <module name="Javastarttoend" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.exception.*" />
+          <option name="PATTERN" value="org.exception.execptionHnadlingWthMethodOverriding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Throwexception" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.exception.Throwexception" />
+    <configuration name="SuperClassdeclaresanexceptionandSubClassdeclareswithoutexception" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.exception.execptionHnadlingWthMethodOverriding.SuperClassdeclaresanexceptionandSubClassdeclareswithoutexception" />
       <module name="Javastarttoend" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.exception.*" />
+          <option name="PATTERN" value="org.exception.execptionHnadlingWthMethodOverriding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Throwingcheckedexception" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.exception.throwexception.Throwingcheckedexception" />
+    <configuration name="Superclassdoesnotdeclareanexecptionsubclassdeclaredanuncheckedexecption" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.exception.execptionHnadlingWthMethodOverriding.Superclassdoesnotdeclareanexecptionsubclassdeclaredanuncheckedexecption" />
       <module name="Javastarttoend" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.exception.throwexception.*" />
+          <option name="PATTERN" value="org.exception.execptionHnadlingWthMethodOverriding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="nestedTry" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.exception.nestedTry" />
+    <configuration name="Superclassdoesnotdeclareanexecptionsubclassdeclaredcheckedexecption" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.exception.execptionHnadlingWthMethodOverriding.Superclassdoesnotdeclareanexecptionsubclassdeclaredcheckedexecption" />
       <module name="Javastarttoend" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.exception.*" />
+          <option name="PATTERN" value="org.exception.execptionHnadlingWthMethodOverriding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Throwingcheckedexception" />
-        <item itemvalue="Application.Throwexception" />
-        <item itemvalue="Application.nestedTry" />
-        <item itemvalue="Application.Execptionexample2" />
-        <item itemvalue="Application.Execptionexample1" />
+        <item itemvalue="Application.SuperClassdeclaresanexceptionandSubClassdeclareswithoutexception" />
+        <item itemvalue="Application.SuperClassdeclaresanexceptionandSubClassdeclaresachildexceptionoftheSuperClassdeclaredException" />
+        <item itemvalue="Application.SuperClassdeclaresanexceptionandSubClassdeclaresexceptions" />
+        <item itemvalue="Application.Superclassdoesnotdeclareanexecptionsubclassdeclaredanuncheckedexecption" />
+        <item itemvalue="Application.Superclassdoesnotdeclareanexecptionsubclassdeclaredcheckedexecption" />
       </list>
     </recent_temporary>
   </component>
