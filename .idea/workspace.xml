@@ -5,8 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="967b7a0e-c7a7-4e16-841b-dc45b4628bb1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/file" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/collection/Arraylist/Arraylistexample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/collection/Arraylist/Arraylistexample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/collection/Arraylist/Arraylistexample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/collection/Arraylist/Arraylistexample4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/collection/Arraylist/Arraylistexmplae5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/collection/Arraylist/Sortanarratlistbymergesort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/collection/Arraylist/Sortanarraylistbybubblesort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/collection/Hashset/Hashsetexample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/collection/Hashset/LinkedHashSetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/collection/Hashset/LinkedHashSetExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/collection/linkedlist/Linkedlistexample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/collection/linkedlist/Linkedlistexample2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/exception/userdefinedexception/Example1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/exception/userdefinedexception/Example1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,13 +66,13 @@
       <recent name="D:\Practice\Collections\Javastarttoend\src\main\java\org" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Example1">
-    <configuration name="Example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.exception.userdefinedexception.Example1" />
+  <component name="RunManager" selected="Application.LinkedHashSetExample2">
+    <configuration name="Hashsetexample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.collection.Hashset.Hashsetexample1" />
       <module name="Javastarttoend" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.exception.userdefinedexception.*" />
+          <option name="PATTERN" value="org.collection.Hashset.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SuperClassdeclaresanexceptionandSubClassdeclaresachildexceptionoftheSuperClassdeclaredException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.exception.execptionHnadlingWthMethodOverriding.SuperClassdeclaresanexceptionandSubClassdeclaresachildexceptionoftheSuperClassdeclaredException" />
+    <configuration name="LinkedHashSetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.collection.Hashset.LinkedHashSetExample" />
       <module name="Javastarttoend" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.exception.execptionHnadlingWthMethodOverriding.*" />
+          <option name="PATTERN" value="org.collection.Hashset.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SuperClassdeclaresanexceptionandSubClassdeclaresexceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.exception.execptionHnadlingWthMethodOverriding.SuperClassdeclaresanexceptionandSubClassdeclaresexceptions" />
+    <configuration name="LinkedHashSetExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.collection.Hashset.LinkedHashSetExample2" />
       <module name="Javastarttoend" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.exception.execptionHnadlingWthMethodOverriding.*" />
+          <option name="PATTERN" value="org.collection.Hashset.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SuperClassdeclaresanexceptionandSubClassdeclareswithoutexception" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.exception.execptionHnadlingWthMethodOverriding.SuperClassdeclaresanexceptionandSubClassdeclareswithoutexception" />
+    <configuration name="Linkedlistexample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.colistection.linkedlist.Linkedlistexample1" />
       <module name="Javastarttoend" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.exception.execptionHnadlingWthMethodOverriding.*" />
+          <option name="PATTERN" value="org.colistection.linkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Superclassdoesnotdeclareanexecptionsubclassdeclaredanuncheckedexecption" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.exception.execptionHnadlingWthMethodOverriding.Superclassdoesnotdeclareanexecptionsubclassdeclaredanuncheckedexecption" />
+    <configuration name="Linkedlistexample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.collection.linkedlist.Linkedlistexample2" />
       <module name="Javastarttoend" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.exception.execptionHnadlingWthMethodOverriding.*" />
+          <option name="PATTERN" value="org.collection.linkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Example1" />
-        <item itemvalue="Application.SuperClassdeclaresanexceptionandSubClassdeclareswithoutexception" />
-        <item itemvalue="Application.SuperClassdeclaresanexceptionandSubClassdeclaresachildexceptionoftheSuperClassdeclaredException" />
-        <item itemvalue="Application.SuperClassdeclaresanexceptionandSubClassdeclaresexceptions" />
-        <item itemvalue="Application.Superclassdoesnotdeclareanexecptionsubclassdeclaredanuncheckedexecption" />
+        <item itemvalue="Application.LinkedHashSetExample2" />
+        <item itemvalue="Application.LinkedHashSetExample" />
+        <item itemvalue="Application.Hashsetexample1" />
+        <item itemvalue="Application.Linkedlistexample2" />
+        <item itemvalue="Application.Linkedlistexample1" />
       </list>
     </recent_temporary>
   </component>
@@ -228,6 +240,16 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/exception/throwexception/Throwingcheckedexception.java</url>
           <line>11</line>
           <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/collection/Arraylist/Arraylistexample4.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/collection/Arraylist/Sortanarraylistbybubblesort.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="18" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
