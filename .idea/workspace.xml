@@ -5,13 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="967b7a0e-c7a7-4e16-841b-dc45b4628bb1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/collection/Map/Mapexample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/collection/Treeset/Arraydequeexample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/collection/Treeset/Objectarraydeque.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/collection/Treeset/Objectsinpriorityqueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/collection/Treeset/Objectsortingexample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/collection/Treeset/PriorityQueueExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/collection/Treeset/Treesetexample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/collection/Collectionclass/Collectionclassexample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/collection/Collectionclass/Comparablereverseorder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/collection/Collectionclass/Comparator/Comparatorexample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/collection/Collectionclass/Comparator/Comparatoroperatorexample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/collection/Map/Hashmap/EnumSetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/collection/Map/Hashmap/HashmapExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/collection/Map/Hashmap/Hashtableexample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/collection/Map/Hashmap/Linkedhashmapexample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/collection/Map/Hashmap/Linkedhashmapobjectexample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/collection/Map/Hashmap/Mapexample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/collection/Map/Hashmap/Objecttreemap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/collection/Map/Hashmap/Treemapexample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,13 +65,13 @@
       <recent name="D:\Practice\Collections\Javastarttoend\src\main\java\org" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Mapexample">
-    <configuration name="Arraydequeexample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.collection.Treeset.Arraydequeexample" />
+  <component name="RunManager" selected="Application.Comparatorexample2 (1)">
+    <configuration name="Comparablereverseorder (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.collection.Collectionclass.Comparablereverseorder" />
       <module name="Javastarttoend" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.collection.Treeset.*" />
+          <option name="PATTERN" value="org.collection.Collectionclass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Mapexample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.collection.Map.Mapexample" />
+    <configuration name="Comparablereverseorder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.collection.Collectionclass.Comparablereverseorder" />
       <module name="Javastarttoend" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.collection.Map.*" />
+          <option name="PATTERN" value="org.collection.Collectionclass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Objectarraydeque" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.collection.Treeset.Objectarraydeque" />
+    <configuration name="Comparatorexample2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.collection.Collectionclass.Comparator.Comparatorexample2" />
       <module name="Javastarttoend" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.collection.Treeset.*" />
+          <option name="PATTERN" value="org.collection.Collectionclass.Comparator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Objectsinpriorityqueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.collection.Treeset.Objectsinpriorityqueue" />
+    <configuration name="Comparatorexample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.collection.Collectionclass.Comparator.Comparatorexample2" />
       <module name="Javastarttoend" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.collection.Treeset.*" />
+          <option name="PATTERN" value="org.collection.Collectionclass.Comparator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PriorityQueueExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.collection.Treeset.PriorityQueueExample" />
+    <configuration name="Comparatoroperatorexample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.collection.Collectionclass.Comparator.Comparatoroperatorexample" />
       <module name="Javastarttoend" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.collection.Treeset.*" />
+          <option name="PATTERN" value="org.collection.Collectionclass.Comparator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Mapexample" />
-        <item itemvalue="Application.Objectarraydeque" />
-        <item itemvalue="Application.Arraydequeexample" />
-        <item itemvalue="Application.Objectsinpriorityqueue" />
-        <item itemvalue="Application.PriorityQueueExample" />
+        <item itemvalue="Application.Comparatorexample2 (1)" />
+        <item itemvalue="Application.Comparatorexample2" />
+        <item itemvalue="Application.Comparatoroperatorexample" />
+        <item itemvalue="Application.Comparablereverseorder (1)" />
+        <item itemvalue="Application.Comparablereverseorder" />
       </list>
     </recent_temporary>
   </component>
