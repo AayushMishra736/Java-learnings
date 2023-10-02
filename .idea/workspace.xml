@@ -5,19 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="967b7a0e-c7a7-4e16-841b-dc45b4628bb1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/collection/Collectionclass/Collectionclassexample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/collection/Collectionclass/Comparablereverseorder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/collection/Collectionclass/Comparator/Comparatorexample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/collection/Collectionclass/Comparator/Comparatoroperatorexample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/collection/Map/Hashmap/EnumSetExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/collection/Map/Hashmap/HashmapExample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/collection/Map/Hashmap/Hashtableexample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/collection/Map/Hashmap/Linkedhashmapexample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/collection/Map/Hashmap/Linkedhashmapobjectexample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/collection/Map/Hashmap/Mapexample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/collection/Map/Hashmap/Objecttreemap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/collection/Map/Hashmap/Treemapexample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/collection/Arraylist/Sortarraylistindescendignorder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/collection/Collectionclass/Comparator/Java8comparatorexample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/collection/Collectionconclusion/Stackclassexample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/collection/Collectionconclusion/Vectorclassexample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/collection/Properties/properties1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/collection/linkedlist/Linkedlistexample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/collection/Linkedlist/Linkedlistexample1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/collection/linkedlist/Linkedlistexample2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/collection/Linkedlist/Linkedlistexample2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,35 +60,9 @@
       <recent name="D:\Practice\Collections\Javastarttoend\src\main\java\org" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Comparatorexample2 (1)">
-    <configuration name="Comparablereverseorder (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.collection.Collectionclass.Comparablereverseorder" />
-      <module name="Javastarttoend" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.collection.Collectionclass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Comparablereverseorder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.collection.Collectionclass.Comparablereverseorder" />
-      <module name="Javastarttoend" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.collection.Collectionclass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Comparatorexample2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.collection.Collectionclass.Comparator.Comparatorexample2" />
+  <component name="RunManager" selected="Application.Sortarraylistindescendignorder">
+    <configuration name="Java8comparatorexample (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.collection.Collectionclass.Comparator.Java8comparatorexample" />
       <module name="Javastarttoend" />
       <extension name="coverage">
         <pattern>
@@ -105,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Comparatorexample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.collection.Collectionclass.Comparator.Comparatorexample2" />
+    <configuration name="Sortarraylistindescendignorder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.collection.Arraylist.Sortarraylistindescendignorder" />
       <module name="Javastarttoend" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.collection.Collectionclass.Comparator.*" />
+          <option name="PATTERN" value="org.collection.Arraylist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +87,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Comparatoroperatorexample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.collection.Collectionclass.Comparator.Comparatoroperatorexample" />
+    <configuration name="Stackclassexample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.collection.Collectionconclusion.Stackclassexample" />
       <module name="Javastarttoend" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.collection.Collectionclass.Comparator.*" />
+          <option name="PATTERN" value="org.collection.Collectionconclusion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Vectorclassexample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.collection.Collectionconclusion.Vectorclassexample" />
+      <module name="Javastarttoend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.collection.Collectionconclusion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="properties1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.collection.Properties.properties1" />
+      <module name="Javastarttoend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.collection.Properties.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Comparatorexample2 (1)" />
-        <item itemvalue="Application.Comparatorexample2" />
-        <item itemvalue="Application.Comparatoroperatorexample" />
-        <item itemvalue="Application.Comparablereverseorder (1)" />
-        <item itemvalue="Application.Comparablereverseorder" />
+        <item itemvalue="Application.Sortarraylistindescendignorder" />
+        <item itemvalue="Application.Stackclassexample" />
+        <item itemvalue="Application.Vectorclassexample" />
+        <item itemvalue="Application.properties1" />
+        <item itemvalue="Application.Java8comparatorexample (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -249,6 +244,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/collection/Arraylist/Sortanarraylistbybubblesort.java</url>
           <line>16</line>
           <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/collection/Arraylist/Sortarraylistindescendignorder.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="19" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

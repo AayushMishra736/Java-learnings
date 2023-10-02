@@ -1,8 +1,7 @@
-package org.collection.linkedlist;
+package org.collection.Linkedlist;
 
 import java.util.LinkedList;
 import java.util.List;
-import java.util.ListIterator;
 
 class Book{
     int book_id;
