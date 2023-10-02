@@ -5,14 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="967b7a0e-c7a7-4e16-841b-dc45b4628bb1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/collection/Arraylist/Sortarraylistindescendignorder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/collection/Collectionclass/Comparator/Java8comparatorexample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/collection/Collectionconclusion/Stackclassexample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/collection/Collectionconclusion/Vectorclassexample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/collection/Properties/properties1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Java8/Lambdaexpression/Lambdaexpressionmultiplestatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Java8/Lambdaexpression/Lambdawithforeachloop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Java8/Lambdaexpression/Lambdawithreturntype.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Java8/Lambdaexpression/Multipleparameterexample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Java8/Lambdaexpression/Noparameterexample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Java8/Lambdaexpression/Singleparameterexample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/collection/linkedlist/Linkedlistexample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/collection/Linkedlist/Linkedlistexample1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/collection/linkedlist/Linkedlistexample2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/collection/Linkedlist/Linkedlistexample2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,13 +59,13 @@
       <recent name="D:\Practice\Collections\Javastarttoend\src\main\java\org" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Sortarraylistindescendignorder">
-    <configuration name="Java8comparatorexample (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.collection.Collectionclass.Comparator.Java8comparatorexample" />
+  <component name="RunManager" selected="Application.Lambdawithforeachloop">
+    <configuration name="Lambdawithforeachloop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.Java8.Lambdaexpression.Lambdawithforeachloop" />
       <module name="Javastarttoend" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.collection.Collectionclass.Comparator.*" />
+          <option name="PATTERN" value="org.Java8.Lambdaexpression.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sortarraylistindescendignorder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.collection.Arraylist.Sortarraylistindescendignorder" />
+    <configuration name="Lambdawithreturntype" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.Java8.Lambdaexpression.Lambdawithreturntype" />
       <module name="Javastarttoend" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.collection.Arraylist.*" />
+          <option name="PATTERN" value="org.Java8.Lambdaexpression.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Stackclassexample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.collection.Collectionconclusion.Stackclassexample" />
+    <configuration name="Multipleparameterexample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.Java8.Lambdaexpression.Multipleparameterexample" />
       <module name="Javastarttoend" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.collection.Collectionconclusion.*" />
+          <option name="PATTERN" value="org.Java8.Lambdaexpression.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Vectorclassexample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.collection.Collectionconclusion.Vectorclassexample" />
+    <configuration name="Singleparameterexample (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.Java8.Lambdaexpression.Singleparameterexample" />
       <module name="Javastarttoend" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.collection.Collectionconclusion.*" />
+          <option name="PATTERN" value="org.Java8.Lambdaexpression.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="properties1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.collection.Properties.properties1" />
+    <configuration name="Singleparameterexample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.Java8.Lambdaexpression.Singleparameterexample" />
       <module name="Javastarttoend" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.collection.Properties.*" />
+          <option name="PATTERN" value="org.Java8.Lambdaexpression.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Sortarraylistindescendignorder" />
-        <item itemvalue="Application.Stackclassexample" />
-        <item itemvalue="Application.Vectorclassexample" />
-        <item itemvalue="Application.properties1" />
-        <item itemvalue="Application.Java8comparatorexample (1)" />
+        <item itemvalue="Application.Lambdawithforeachloop" />
+        <item itemvalue="Application.Lambdawithreturntype" />
+        <item itemvalue="Application.Multipleparameterexample" />
+        <item itemvalue="Application.Singleparameterexample (1)" />
+        <item itemvalue="Application.Singleparameterexample" />
       </list>
     </recent_temporary>
   </component>
