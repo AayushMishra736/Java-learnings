@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="967b7a0e-c7a7-4e16-841b-dc45b4628bb1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Java8/Lambdaexpression/Lambdaexpressionmultiplestatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Java8/Lambdaexpression/Lambdawithforeachloop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Java8/Lambdaexpression/Lambdawithreturntype.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Java8/Lambdaexpression/Multipleparameterexample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Java8/Lambdaexpression/Noparameterexample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Java8/Lambdaexpression/Singleparameterexample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Java8/Lambdaexpression/Deadlockbylambdaexpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Java8/Lambdaexpression/Lambdaexpressionforthread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Java8/Methodreference/Exampleofmethodreference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Java8/ObjectCloneing/Deepcopyexample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Java8/ObjectCloneing/Shallowcopy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,9 +58,35 @@
       <recent name="D:\Practice\Collections\Javastarttoend\src\main\java\org" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lambdawithforeachloop">
-    <configuration name="Lambdawithforeachloop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.Java8.Lambdaexpression.Lambdawithforeachloop" />
+  <component name="RunManager" selected="Application.Deepcopyexample">
+    <configuration name="Deepcopyexample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.Java8.ObjectCloneing.Deepcopyexample" />
+      <module name="Javastarttoend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.Java8.ObjectCloneing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exampleofmethodreference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.Java8.Methodreference.Exampleofmethodreference" />
+      <module name="Javastarttoend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.Java8.Methodreference.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lambdaexpressionforthread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.Java8.Lambdaexpression.Lambdaexpressionforthread" />
       <module name="Javastarttoend" />
       <extension name="coverage">
         <pattern>
@@ -73,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lambdawithreturntype" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.Java8.Lambdaexpression.Lambdawithreturntype" />
+    <configuration name="Methodreferncetoanstaticmethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.Java8.Methodreference.Methodreferncetoanstaticmethod" />
       <module name="Javastarttoend" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.Java8.Lambdaexpression.*" />
+          <option name="PATTERN" value="org.Java8.Methodreference.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,38 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Multipleparameterexample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.Java8.Lambdaexpression.Multipleparameterexample" />
+    <configuration name="Shallowcopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.Java8.ObjectCloneing.Shallowcopy" />
       <module name="Javastarttoend" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.Java8.Lambdaexpression.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Singleparameterexample (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.Java8.Lambdaexpression.Singleparameterexample" />
-      <module name="Javastarttoend" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.Java8.Lambdaexpression.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Singleparameterexample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.Java8.Lambdaexpression.Singleparameterexample" />
-      <module name="Javastarttoend" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.Java8.Lambdaexpression.*" />
+          <option name="PATTERN" value="org.Java8.ObjectCloneing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lambdawithforeachloop" />
-        <item itemvalue="Application.Lambdawithreturntype" />
-        <item itemvalue="Application.Multipleparameterexample" />
-        <item itemvalue="Application.Singleparameterexample (1)" />
-        <item itemvalue="Application.Singleparameterexample" />
+        <item itemvalue="Application.Deepcopyexample" />
+        <item itemvalue="Application.Shallowcopy" />
+        <item itemvalue="Application.Exampleofmethodreference" />
+        <item itemvalue="Application.Methodreferncetoanstaticmethod" />
+        <item itemvalue="Application.Lambdaexpressionforthread" />
       </list>
     </recent_temporary>
   </component>
@@ -248,6 +247,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/collection/Arraylist/Sortarraylistindescendignorder.java</url>
           <line>9</line>
           <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/Java8/Methodreference/Methodreferncetoanstaticmethod.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="20" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
