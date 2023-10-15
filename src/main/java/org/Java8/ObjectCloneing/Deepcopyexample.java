@@ -1,11 +1,11 @@
 package org.Java8.ObjectCloneing;
 
-class Course1 implements Cloneable {
+class Subject implements Cloneable {
     String subject1;
     String subject2;
     String subject3;
 
-    public Course1(String subject1, String subject2, String subject3) {
+    public Subject(String subject1, String subject2, String subject3) {
         this.subject1 = subject1;
         this.subject2 = subject2;
         this.subject3 = subject3;
@@ -14,38 +14,38 @@ class Course1 implements Cloneable {
     protected Object clone() throws CloneNotSupportedException {
         return super.clone();
     }
-
 }
 
-class Student1 implements Cloneable {
+class School implements Cloneable {
     int id;
     String name;
-    Course1 course1;
+    Subject subject;
 
-    public Student1(int id, String name, Course1 course1) {
+    public School(int id, String name, Subject subject) {
         this.id = id;
         this.name = name;
-        this.course1 = course1;
+        this.subject = subject;
     }
 
     protected Object clone() throws CloneNotSupportedException {
-        Student1 student1 = (Student1) super.clone();
-        student1.course1 = (Course1) course1.clone();
-        return student1;
+        School school = (School) super.clone();
+        school.subject = (Subject) subject.clone();
+        return school;
     }
 }
 
 public class Deepcopyexample {
     public static void main(String[] args) {
-        Course1 course1 = new Course1("Physics", "Maths", "Chemistrey");
-        Student1 student1 = new Student1(111, "John", course1);
-        Student1 student2 = null;
+        Subject subject = new Subject("Phy", "Maths", "Chemistry");
+        School sc = new School(101, "John", subject);
+        School sc2 = null;
         try {
-            student2 = (Student1) student1.clone();
+            sc2 = (School) sc.clone();
         } catch (CloneNotSupportedException e) {
             e.printStackTrace();
         }
-
-        System.out.println(student1.course1.subject1);
+        System.out.println(sc2.subject.subject1);
+        sc2.subject.subject2 = "Economics";
+        System.out.println(sc2.subject.subject2);
     }
 }
