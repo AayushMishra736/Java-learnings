@@ -1,14 +1,16 @@
 package org.Java8.PracticeQuestions;
 
-import java.util.*;
+
+import java.util.ArrayList;
+import java.util.Comparator;
+import java.util.List;
+import java.util.Map;
 import java.util.stream.Collectors;
 
 class Student {
     String name;
     int id;
-
     String subject;
-
     double percentage;
 
     public Student(String name, int id, String subject, double percentage) {
@@ -40,7 +42,7 @@ class Student {
     }
 }
 
-public class Java9example {
+public class Example1 {
     public static void main(String[] args) {
         List<Student> studentList = new ArrayList<>();
         studentList.add(new Student("John", 101, "Maths", 89));

@@ -1,0 +1,79 @@
+package org.Java8.PracticeQuestions;
+
+import java.util.*;
+import java.util.stream.Collectors;
+
+class Student {
+    String name;
+    int id;
+
+    String subject;
+
+    double percentage;
+
+    public Student(String name, int id, String subject, double percentage) {
+        this.name = name;
+        this.id = id;
+        this.subject = subject;
+        this.percentage = percentage;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public int getId() {
+        return id;
+    }
+
+    public String getSubject() {
+        return subject;
+    }
+
+    public double getPercentage() {
+        return percentage;
+    }
+
+    @Override
+    public String toString() {
+        return name + "-" + id + "-" + subject + "-" + percentage;
+    }
+}
+
+public class Java9example {
+    public static void main(String[] args) {
+        List<Student> studentList = new ArrayList<>();
+        studentList.add(new Student("John", 101, "Maths", 89));
+        studentList.add(new Student("Alice", 102, "History", 75));
+        studentList.add(new Student("Bob", 103, "English", 92));
+        studentList.add(new Student("Sarah", 104, "Physics", 88));
+        studentList.add(new Student("Michael", 105, "Chemistry", 76));
+        studentList.add(new Student("Emily", 106, "Biology", 94));
+        studentList.add(new Student("David", 107, "Computer Science", 91));
+        studentList.add(new Student("Olivia", 108, "Art", 55));
+        studentList.add(new Student("Daniel", 109, "Geography", 79));
+        studentList.add(new Student("Sophia", 110, "Music", 34));
+        studentList.add(new Student("William", 111, "Physical Education", 93));
+        studentList.add(new Student("Emma", 112, "Economics", 81));
+        studentList.add(new Student("Liam", 113, "Psychology", 90));
+        studentList.add(new Student("Ava", 114, "Sociology", 87));
+        studentList.add(new Student("James", 115, "Political Science", 86));
+        studentList.add(new Student("Cena", 101, "Maths", 89));
+
+        Map<Boolean, List<Student>> listFor60above = studentList.stream().collect(Collectors.partitioningBy(student -> student.getPercentage() > 60));
+
+        List<Student> moreThan60 = listFor60above.get(true);
+        List<Student> top3list = studentList.stream().sorted(Comparator.comparingDouble(Student::getPercentage)).limit(3).collect(Collectors.toList());
+        System.out.println(top3list);
+
+        Map<String,Double> listOfStudent = studentList.stream().collect(Collectors.toMap(Student::getName,Student::getPercentage));
+        System.out.println(listOfStudent);
+
+        List<String> listOfSubject = studentList.stream().map(Student::getSubject).collect(Collectors.toList());
+        System.out.println(listOfSubject);
+
+        List<String> maxValue = studentList.stream().sorted().map(student -> student.getPercentage()
+
+
+    }
+}
