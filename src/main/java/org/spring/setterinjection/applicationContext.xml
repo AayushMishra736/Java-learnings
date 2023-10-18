@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="https://www.springframework.org/schema/beans"
+
+       xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance"
+
+       xsi:schemaLocation="https://www.springframework.org/schema/beans https://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="address" class="org.spring.setterinjection.Studentaddress">
+        <property name="city" value="noida"></property>
+    </bean>
+
+    <bean id="studetnbean" class="org.spring.setterinjection.Student">
+        <property name="studentaddress" ref="address"></property>
+        <property name="name" value="john"></property>
+    </bean>
+
+</beans>

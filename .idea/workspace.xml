@@ -5,10 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="967b7a0e-c7a7-4e16-841b-dc45b4628bb1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Java8/PracticeQuestions/Example1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Java8/PracticeQuestions/Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/spring/constructorijection/EmployeeAddress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/spring/constructorijection/EmployeeBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/spring/constructorijection/EmployeeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/spring/constructorijection/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/spring/setterinjection/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/spring/setterinjection/Studentaddress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/spring/setterinjection/Studenttest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/spring/setterinjection/applicationContext.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/Java8/PracticeQuestions/Java9example.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
