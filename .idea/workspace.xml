@@ -5,15 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="967b7a0e-c7a7-4e16-841b-dc45b4628bb1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/spring/constructorijection/EmployeeAddress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/spring/constructorijection/EmployeeBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/spring/constructorijection/EmployeeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/spring/constructorijection/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/spring/setterinjection/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/spring/setterinjection/Studentaddress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/spring/setterinjection/Studenttest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/spring/setterinjection/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Java/Basic100Questions/Example10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Java/Basic100Questions/Example11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Java/Basic100Questions/Example12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Java/Basic100Questions/Example13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Java/Basic100Questions/Example14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Java/Basic100Questions/Example15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Java/Basic100Questions/Example7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Java/Basic100Questions/Example8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Java/Basic100Questions/Example9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Java/Basic100Questions/Example1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Java/Basic100Questions/Example1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Java/Basic100Questions/Example2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Java/Basic100Questions/Example2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Java/Basic100Questions/Example3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Java/Basic100Questions/Example3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Java/Basic100Questions/Example4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Java/Basic100Questions/Example4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Java/Basic100Questions/Example5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Java/Basic100Questions/Example5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Java/Basic100Questions/Example6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Java/Basic100Questions/Example6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/multithreading/Example1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/multithreading/Example1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/multithreading/ThreadExample2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/multithreading/ThreadExample2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +60,7 @@
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -61,13 +70,13 @@
       <recent name="D:\Practice\Collections\Javastarttoend\src\main\java\org" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Example2">
-    <configuration name="Example2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.Java8.PracticeQuestions.Example2" />
+  <component name="RunManager" selected="Application.Example14">
+    <configuration name="Example10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.Java.Basic100Questions.Example10" />
       <module name="Javastarttoend" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.Java8.PracticeQuestions.*" />
+          <option name="PATTERN" value="org.Java.Basic100Questions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exampleofanonymousinnerclass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.Java8.ObjectCloneing.Exampleofanonymousinnerclass" />
+    <configuration name="Example11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.Java.Basic100Questions.Example11" />
       <module name="Javastarttoend" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.Java8.ObjectCloneing.*" />
+          <option name="PATTERN" value="org.Java.Basic100Questions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Java9example (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.Java8.PracticeQuestions.Java9example" />
+    <configuration name="Example12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.Java.Basic100Questions.Example12" />
       <module name="Javastarttoend" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.Java8.PracticeQuestions.*" />
+          <option name="PATTERN" value="org.Java.Basic100Questions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Java9example (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.Java8.PracticeQuestions.Java9example" />
+    <configuration name="Example13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.Java.Basic100Questions.Example13" />
       <module name="Javastarttoend" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.Java8.PracticeQuestions.*" />
+          <option name="PATTERN" value="org.Java.Basic100Questions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Java9example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.Java8.PracticeQuestions.Java9example" />
+    <configuration name="Example14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.Java.Basic100Questions.Example14" />
       <module name="Javastarttoend" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.Java8.PracticeQuestions.*" />
+          <option name="PATTERN" value="org.Java.Basic100Questions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Example2" />
-        <item itemvalue="Application.Java9example" />
-        <item itemvalue="Application.Java9example (2)" />
-        <item itemvalue="Application.Java9example (1)" />
-        <item itemvalue="Application.Exampleofanonymousinnerclass" />
+        <item itemvalue="Application.Example14" />
+        <item itemvalue="Application.Example13" />
+        <item itemvalue="Application.Example12" />
+        <item itemvalue="Application.Example11" />
+        <item itemvalue="Application.Example10" />
       </list>
     </recent_temporary>
   </component>
@@ -255,6 +264,26 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/Java8/Methodreference/Methodreferncetoanstaticmethod.java</url>
           <line>15</line>
           <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/Java/Basic100Questions/Example1.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/Java/Basic100Questions/Example3.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/Java/Basic100Questions/Example6.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/Java/Basic100Questions/Example14.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="24" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
