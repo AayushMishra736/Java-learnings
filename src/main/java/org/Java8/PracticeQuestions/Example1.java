@@ -1,10 +1,7 @@
 package org.Java8.PracticeQuestions;
 
 
-import java.util.ArrayList;
-import java.util.Comparator;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 import java.util.stream.Collectors;
 
 class Student {
@@ -62,14 +59,39 @@ public class Example1 {
         studentList.add(new Student("James", 115, "Political Science", 86));
         studentList.add(new Student("Cena", 101, "Maths", 89));
 
-        Map<Boolean, List<Student>> listFor60above = studentList.stream().collect(Collectors.partitioningBy(student -> student.getPercentage() > 60));
+        Map<Boolean,List<Student>> listWhoScoredMoreThan60 = studentList.stream().collect(Collectors.partitioningBy(student -> student.getPercentage()>60));
+        List<Student> finalListWhoScoredMoreThan60 = listWhoScoredMoreThan60.get(true);
+        System.out.println("finalListWhoScoredMoreThan60 " + finalListWhoScoredMoreThan60);
 
-        List<Student> moreThan60 = listFor60above.get(true);
-        List<Student> top3list = studentList.stream().sorted(Comparator.comparingDouble(Student::getPercentage)).limit(3).collect(Collectors.toList());
-        System.out.println(top3list);
+        List<Student> listOfEmployeeHavingIGreaterThan107 = studentList.stream().filter(student -> student.getId() > 107).collect(Collectors.toList());
+        System.out.println("listOfEmployeeHavingIGreaterThan107 : " + listOfEmployeeHavingIGreaterThan107);
 
-        Map<String,Double> listOfStudent = studentList.stream().collect(Collectors.toMap(Student::getName,Student::getPercentage));
-        System.out.println(listOfStudent);
+        Long count = studentList.stream().filter(student -> student.getPercentage() > 90).count();
 
+        System.out.println("Total count of student having marks more that 90 : " + count);
+
+        List<Student> studentNameWhoesName = studentList.stream().filter(student -> student.getName().equalsIgnoreCase("DAVID")).collect(Collectors.toList());
+
+        System.out.println("Student whoes name is david : " + studentNameWhoesName);
+
+        //Long studentWithMaxPercentage = Long.valueOf(String.valueOf(studentList.stream().mapToInt(value -> (int) value.getPercentage()).max()));
+
+        //System.out.println(" studentWithMaxPercentage " + studentWithMaxPercentage);
+
+//        List<Double> sortOnTheBasisOfAge = studentList.stream().sorted().map(Student::getPercentage).collect(Collectors.toList());
+//
+//        System.out.println("sortOnTheBasisOfAge : " + sortOnTheBasisOfAge);
+
+        Optional<Student> studentName = studentList.stream().filter(a -> a.getName().equals("James")).findAny();
+
+        System.out.println("StudentName whoes name is james : " + studentName);
+
+        Double studentWithMaxPercentage = studentList.stream().map(Student::getPercentage).max(Double::compare).orElse((double) 0);
+
+        System.out.println("studentWithMaxPercentage " + studentWithMaxPercentage);
+
+        List<Student> sortedData = studentList.stream().sorted(Comparator.comparingDouble(stu -> stu.getPercentage())).collect(Collectors.toList());
+
+        System.out.println("sortedData " + sortedData);
     }
 }
