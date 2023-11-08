@@ -5,21 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="967b7a0e-c7a7-4e16-841b-dc45b4628bb1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/singleton/Doublechecklocking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/singleton/EagerInstation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/singleton/SingletonClassicImplementation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/singleton/ThreadSafeImplementation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/singleton/breaksingletondesignpattern/Cloningcausetobreaksingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/singleton/breaksingletondesignpattern/GFG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/singleton/breaksingletondesignpattern/PreventCloning.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/singleton/breaksingletondesignpattern/Preventreflection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/singleton/breaksingletondesignpattern/Reflection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/designpattern/singleton/breaksingletondesignpattern/Serializationcausesingletonbreak.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/datastructure/basicprograms/Findkthlargestandkthminimum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/datastructure/basicprograms/FrequencyOfChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/datastructure/basicprograms/Reverseanarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/datastructure/basicprograms/sortAnArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/Java8/PracticeQuestions/Example1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Java8/PracticeQuestions/Example1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,13 +57,13 @@
       <recent name="D:\Practice\Collections\Javastarttoend\src\main\java\org" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PreventCloning">
-    <configuration name="Cloningcausetobreaksingleton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="designpattern.singleton.breaksingletondesignpattern.Cloningcausetobreaksingleton" />
+  <component name="RunManager" selected="Application.sortAnArray">
+    <configuration name="Findkthlargestandkthminimum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructure.basicprograms.Findkthlargestandkthminimum" />
       <module name="Javastarttoend" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="designpattern.singleton.breaksingletondesignpattern.*" />
+          <option name="PATTERN" value="datastructure.basicprograms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GFG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="designpattern.singleton.breaksingletondesignpattern.GFG" />
+    <configuration name="FrequencyOfChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructure.basicprograms.FrequencyOfChar" />
       <module name="Javastarttoend" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="designpattern.singleton.breaksingletondesignpattern.*" />
+          <option name="PATTERN" value="datastructure.basicprograms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Preventserilization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="designpattern.singleton.breaksingletondesignpattern.Preventserilization" />
+    <configuration name="Reverseanarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructure.basicprograms.Reverseanarray" />
       <module name="Javastarttoend" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="designpattern.singleton.breaksingletondesignpattern.*" />
+          <option name="PATTERN" value="datastructure.basicprograms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Serializationcausesingletonbreak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="designpattern.singleton.breaksingletondesignpattern.Serializationcausesingletonbreak" />
+    <configuration name="sortAnArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructure.basicprograms.sortAnArray" />
       <module name="Javastarttoend" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="designpattern.singleton.breaksingletondesignpattern.*" />
+          <option name="PATTERN" value="datastructure.basicprograms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.sortAnArray" />
+        <item itemvalue="Application.FrequencyOfChar" />
+        <item itemvalue="Application.Findkthlargestandkthminimum" />
+        <item itemvalue="Application.Reverseanarray" />
         <item itemvalue="Application.PreventCloning" />
-        <item itemvalue="Application.Cloningcausetobreaksingleton" />
-        <item itemvalue="Application.GFG" />
-        <item itemvalue="Application.Preventserilization" />
-        <item itemvalue="Application.Serializationcausesingletonbreak" />
       </list>
     </recent_temporary>
   </component>
@@ -281,6 +271,26 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/Java/Basic100Questions/Example14.java</url>
           <line>16</line>
           <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/datastructure/basicprograms/Findkthlargestandkthminimum.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/datastructure/basicprograms/Findkthlargestandkthminimum.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/datastructure/basicprograms/sortAnArray.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/datastructure/basicprograms/sortAnArray.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="28" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
