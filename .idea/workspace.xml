@@ -4,16 +4,37 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="967b7a0e-c7a7-4e16-841b-dc45b4628bb1" name="Changes" comment="Add collections and comparator,comparable !!">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Java/Basic100Questions/Movenegativearray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Java/Basic100Questions/Movetonegativewithoutanyorder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Java/Basic100Questions/Movetonegativewithoutdisturbinganyorder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Java8/Defaultstaticimplementation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Java8Que4stions/Example1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/collection/Consumerexample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/spring/Hibernate/CompositeKetExample.java" afterDir="false" />
+    <list default="true" id="967b7a0e-c7a7-4e16-841b-dc45b4628bb1" name="Changes" comment="Added some java8 example">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Interviewpractice/Avoiddeadlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Interviewpractice/Comparatorexample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Interviewpractice/Customexception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Interviewpractice/Deadlocksituation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Interviewpractice/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Interviewpractice/Immutableclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Interviewpractice/LambdaExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Interviewpractice/SerializationExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/newPackage/Avoiddeadlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/newPackage/IntegerToRoman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/newPackage/LockExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/newPackage/Longestcommonprefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/newPackage/MinMaxOfAnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/newPackage/Moveallelementtooneside.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/newPackage/Reverseaarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/newPackage/Shortestdistance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/newPackage/StringBracketCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/newPackage/UnionandintersectionOfTwoSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/newPackage/convertToDecimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/newPackage/frequencyOfString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/newPackage/subArrayWithgivenSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Java8Que4stions/Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Java8Que4stions/Example3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Java8Que4stions/Example4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/basic/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/multithreading/Example4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/multithreading/ThreadJoinMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/spring/fieldInjection/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Java8Que4stions/Example1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Java8Que4stions/Example1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,13 +82,13 @@
       <recent name="D:\Practice\Collections\Javastarttoend\src\main\java\org" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Example1">
-    <configuration name="Example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.Java8Que4stions.Example1" />
+  <component name="RunManager" selected="Application.frequencyOfString">
+    <configuration name="Avoiddeadlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="newPackage.Avoiddeadlock" />
       <module name="Javastarttoend" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.Java8Que4stions.*" />
+          <option name="PATTERN" value="newPackage.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.Java.Basic100Questions.Example19" />
+    <configuration name="Longestcommonprefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="newPackage.Longestcommonprefix" />
       <module name="Javastarttoend" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.Java.Basic100Questions.*" />
+          <option name="PATTERN" value="newPackage.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Interruptingathread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.multithreading.deadlock.Interruptingathread" />
+    <configuration name="Shortestdistance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="newPackage.Shortestdistance" />
       <module name="Javastarttoend" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.multithreading.deadlock.*" />
+          <option name="PATTERN" value="newPackage.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Movenegativearray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.Java.Basic100Questions.Movenegativearray" />
+    <configuration name="convertToDecimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="newPackage.convertToDecimal" />
       <module name="Javastarttoend" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.Java.Basic100Questions.*" />
+          <option name="PATTERN" value="newPackage.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Movetonegativewithoutdisturbinganyorder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.Java.Basic100Questions.Movetonegativewithoutdisturbinganyorder" />
+    <configuration name="frequencyOfString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="newPackage.frequencyOfString" />
       <module name="Javastarttoend" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.Java.Basic100Questions.*" />
+          <option name="PATTERN" value="newPackage.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Example1" />
-        <item itemvalue="Application.Movenegativearray" />
-        <item itemvalue="Application.Movetonegativewithoutdisturbinganyorder" />
-        <item itemvalue="Application.Example19" />
-        <item itemvalue="Application.Interruptingathread" />
+        <item itemvalue="Application.frequencyOfString" />
+        <item itemvalue="Application.Shortestdistance" />
+        <item itemvalue="Application.convertToDecimal" />
+        <item itemvalue="Application.Longestcommonprefix" />
+        <item itemvalue="Application.Avoiddeadlock" />
       </list>
     </recent_temporary>
   </component>
@@ -153,7 +174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1701136644857</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added some java8 example">
+      <created>1701495783074</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1701495783074</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -169,7 +197,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add collections and comparator,comparable !!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add collections and comparator,comparable !!" />
+    <MESSAGE value="Added some java8 example" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added some java8 example" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -338,7 +367,37 @@
           <line>19</line>
           <option name="timeStamp" value="34" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Interviewpractice/FrequencyOfEachCharacter.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/newPackage/Example1.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/newPackage/Kthsmallestandkthlargest.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/newPackage/Longestcommonprefix.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/newPackage/Longestcommonprefix.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Java_learnings$Example1.ic" NAME="Example1 Coverage Results" MODIFIED="1705426655317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>newPackage.*</FILTER>
+    </SUITE>
   </component>
 </project>
